@@ -1,4 +1,3 @@
 tis is third file
 hi
-h
-hello
+
